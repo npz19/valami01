@@ -10,6 +10,7 @@ namespace valami
     {
         static void Main(string[] args)
         {
+            int x = 7;
         }
     }
 }
