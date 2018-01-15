@@ -1,0 +1,6 @@
+language: csharp
+solution: valami.sln
+install:
+	- sudo apt-get -y gtk-sharp2
+	- ls -la
+	- nuget restore valami.sln

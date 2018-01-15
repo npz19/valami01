@@ -1,0 +1,6 @@
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\bin\Debug\valami.exe.config
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\bin\Debug\valami.exe
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\bin\Debug\valami.pdb
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\obj\Debug\valami.csprojResolveAssemblyReference.cache
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\obj\Debug\valami.exe
+c:\users\temp.deri.003\documents\visual studio 2015\Projects\valami\valami\obj\Debug\valami.pdb
